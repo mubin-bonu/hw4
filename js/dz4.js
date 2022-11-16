@@ -1,5 +1,5 @@
-function password() {
-    alert('name, age, profession, email');
+function showValue() {
+    alert(input.value);
 }
 
 let months = ['январь', 'февраль', 'март', 'апрель', 'май', 'июнь', 'июль', 'август', 'сентябрь', 'октябрь', 'ноябрь', 'декабрь'];
